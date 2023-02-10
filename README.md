@@ -11,7 +11,7 @@
 | :sparkles: Nome        | **Web Scraping com Python**
 | :label: Tecnologias | python
 | :rocket: URL         | 
-| :fire: Desafio     | Conteúdo do curso Web Scraping com Python
+| :fire: Desafio     | Conteúdo do curso [Web Scraping com Python](https://cursos.alura.com.br/course/web-scraping-data-science-python)
 
 
 ![capa](https://user-images.githubusercontent.com/67301805/217316982-41393a7a-ac78-49e2-85a5-f53e314d04d5.jpg)
