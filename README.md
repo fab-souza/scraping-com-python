@@ -10,7 +10,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Web Scraping com Python**
 | :label: Tecnologias | python
-| :rocket: URL         | 
+| :rocket: URL         | [Notebook no Kaggle](https://www.kaggle.com/code/fabianadesouza/web-scraping-com-python)
 | :fire: Desafio     | Conteúdo do curso [Web Scraping com Python](https://cursos.alura.com.br/course/web-scraping-data-science-python)
 
 
