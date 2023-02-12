@@ -58,6 +58,10 @@ Assim como foi feito no curso, iniciei minha prática retirando informações so
 
 Fazer esta prática foi uma das que mais me diverti, pois trabalhar com HTML me lembrou de quando comecei a gostar de programação e me livrei da sensação de que programação ‘não era para mim’, e juntar livros com análise de dados foi a ‘cereja do bolo’. Em conjunto com este projeto, também encerro a revisão dos cursos da formação [Python  para Data Science](https://cursos.alura.com.br/formacao-python-data-science-v31955) e darei início a revisão de outra formação.
 
+---
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
+
 
 ## Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
