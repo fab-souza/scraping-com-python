@@ -18,8 +18,18 @@
 
 ## Sobre o curso 📚
 
+Este foi o último curso da formação Python para Data Science, ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/), em que aprendi como extrair dados a partir de uma página web, os principais métodos de pesquisa, navegação e acesso no HTML para, ao final, criar um dataframe.
 
+O curso simulou a retirada de dados a partir de um site fictício de anúncio de carros, extraindo informações do tipo:
+- valor;
+- marca/modelo;
+- categoria (se é novo ou usado);
+- informações sobre o motor;
+- ano de fabricação e quilometragem;
+- local que o veículo se encontra;
+- e itens adicionais (por exemplo: câmbio automático, central multimídia, freio ABS, etc).
 
+![alura motors](https://user-images.githubusercontent.com/67301805/218318139-741afc1c-e7b4-4a90-a36c-79d9107ad659.png)
 
 
 
