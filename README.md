@@ -28,6 +28,13 @@ Para a prática deste curso, eu decidi retirar informações de uma lista do [Go
 
 ![image](https://user-images.githubusercontent.com/67301805/218314254-2cbae394-3426-4afb-aa19-361f10a54dc8.png)
 
+Eu escolhi trabalhar com a lista [Best Books Ever] (https://www.goodreads.com/list/show/1.Best_Books_Ever), porque logo nas 20 primeiras posições há tanto livros que já li ou que quero ler, quanto obras que não conheço. Além do título e autor do livro, cada item da lista apresenta: 
+- a nota média (*avg rating*);
+- a avaliação/classificação (*ratings*);
+- uma pontuação (*score*);
+- e quantas pessoas votaram na obra.
+
+Das quatro informações adicionais, eu decidi não trazer as avaliações, porque ela não está em ordem decrescente ao longo da lista. Por exemplo, o livro **To Kill a Mockingbird** tem uma classificação maior do que **Pride and Prejudice**, mas está em uma posição inferior do que a obra de Jane Austen.
 
 
 
