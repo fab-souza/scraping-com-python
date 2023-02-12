@@ -24,6 +24,7 @@
 
 
 ## Minha prática 👩🏻‍💻
+Para a prática deste curso, eu decidi retirar informações de uma lista do [Goodreads](https://www.goodreads.com/). A plataforma possui diversas listas de indicação de leitura, por exemplo, há listas por gênero de livro, por ano de lançamento, local em que a história se passa ou característica do(a) personagem principal. 
 
 ![image](https://user-images.githubusercontent.com/67301805/218314254-2cbae394-3426-4afb-aa19-361f10a54dc8.png)
 
