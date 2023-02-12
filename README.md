@@ -18,9 +18,7 @@
 
 ## Sobre o curso 📚
 
-Este foi o último curso da formação Python para Data Science, ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/), em que aprendi como extrair dados a partir de uma página web, os principais métodos de pesquisa, navegação e acesso no HTML, com o auxílio do pacote [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), para ao final, criar um dataframe.
-
-O curso simulou a retirada de dados a partir de um site fictício de anúncio de carros, extraindo informações do tipo:
+Este foi o último curso da formação Python para Data Science, ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/), em que aprendi como extrair dados a partir de uma página web, os principais métodos de pesquisa, navegação e acesso no HTML, com o auxílio do pacote [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). Neste curso, retiramos os dados a partir de um site fictício de anúncio de carros, extraindo informações do tipo:
 - valor;
 - marca/modelo;
 - categoria (se é novo ou usado);
@@ -31,6 +29,7 @@ O curso simulou a retirada de dados a partir de um site fictício de anúncio de
 
 ![alura motors](https://user-images.githubusercontent.com/67301805/218318139-741afc1c-e7b4-4a90-a36c-79d9107ad659.png)
 
+Iniciamos com a retirada individual de cada item, entendendo como acessar cada *tag*, como usar o método *find()* para buscar uma *tag* específica e como acessar os atributos das *tags* para ao final, criar um dataframe.
 
 
 ## Minha prática 👩🏻‍💻
