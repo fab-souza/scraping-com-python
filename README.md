@@ -18,7 +18,7 @@
 
 ## Sobre o curso 📚
 
-Este foi o último curso da formação Python para Data Science, ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/), em que aprendi como extrair dados a partir de uma página web, os principais métodos de pesquisa, navegação e acesso no HTML para, ao final, criar um dataframe.
+Este foi o último curso da formação Python para Data Science, ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/), em que aprendi como extrair dados a partir de uma página web, os principais métodos de pesquisa, navegação e acesso no HTML, com o auxílio do pacote [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), para ao final, criar um dataframe.
 
 O curso simulou a retirada de dados a partir de um site fictício de anúncio de carros, extraindo informações do tipo:
 - valor;
