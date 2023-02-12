@@ -1,6 +1,6 @@
 # scraping-com-python
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/scraping-com-python)
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/scraping-com-python)
@@ -14,7 +14,7 @@
 | :fire: Desafio     | Conteúdo do curso [Web Scraping com Python](https://cursos.alura.com.br/course/web-scraping-data-science-python)
 
 
-![capa](https://user-images.githubusercontent.com/67301805/217316982-41393a7a-ac78-49e2-85a5-f53e314d04d5.jpg)
+![](https://user-images.githubusercontent.com/67301805/217316982-41393a7a-ac78-49e2-85a5-f53e314d04d5.jpg#vitrinedev)
 
 ## Sobre o curso 📚
 
