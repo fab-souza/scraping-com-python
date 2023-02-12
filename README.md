@@ -51,8 +51,7 @@ Das quatro informações adicionais, eu decidi não trazer as avaliações, porq
 
 Assim como foi feito no curso, iniciei minha prática retirando informações sobre o primeiro item da lista, entendendo como acessar e extrair as informações previamente determinadas, em seguida automatizar a coleta e ampliar para os livros presentes na página. Finalizando com a expansão de coleta de dados para as 100 páginas do site, resultando em um dataframe com 10.000 linhas.
 
-![book 1](https://user-images.githubusercontent.com/67301805/218316701-1dc4d111-208f-4cc0-8074-6ea71df0981c.png)
-
+![dataframe](https://user-images.githubusercontent.com/67301805/218326752-b288a574-ff53-4b70-97eb-84938c36e896.png)
 
 
 ## Conclusão 🏁
