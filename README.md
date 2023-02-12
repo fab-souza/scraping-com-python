@@ -29,7 +29,9 @@ Este foi o último curso da formação Python para Data Science, ministrado pelo
 
 ![alura motors](https://user-images.githubusercontent.com/67301805/218318139-741afc1c-e7b4-4a90-a36c-79d9107ad659.png)
 
-Iniciamos com a retirada individual de cada item, entendendo como acessar cada *tag*, como usar o método *find()* para buscar uma *tag* específica e como acessar os atributos das *tags* para ao final, criar um dataframe.
+Iniciamos com a retirada individual de cada item, entendendo como acessar cada *tag*, como usar o método *find()* para buscar uma *tag*, específica ou alguma que seja ‘sua irmã’, e como obter os atributos das *tags*. Com essa etapa concluída, automatizamos a coleta de informações para todos os veículos presentes naquela página e criar um dataframe. Após extrair esses dados, ampliamos a coleta de dados para todos os veículos anunciados e recriar o dataframe.
+
+![image](https://user-images.githubusercontent.com/67301805/218325583-5f9edd87-6d16-4287-9973-ac80f95b4a8a.png)
 
 
 ## Minha prática 👩🏻‍💻
