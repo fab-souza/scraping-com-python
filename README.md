@@ -25,6 +25,7 @@
 
 ## Minha prática 👩🏻‍💻
 
+![image](https://user-images.githubusercontent.com/67301805/218314254-2cbae394-3426-4afb-aa19-361f10a54dc8.png)
 
 
 
